@@ -23,13 +23,13 @@ This is the project for clustering face images.
 ### Quiz AI
 
 0. (화면 가져오기) -> advanced
-  - 모바일 기기 속 화면을 컴퓨터로 실시간으로 가져옴
+   - 모바일 기기 속 화면을 컴퓨터로 실시간으로 가져옴
 
 1. 글자 읽기
-  - OCR을 통한 사진 속 글자 읽기
+   - OCR을 통한 사진 속 글자 읽기
   
 2. 문제 검색
-  - 문제를 검색하고 결과를 크롤링
+   - 문제를 검색하고 결과를 크롤링
   
 3. 정답 도출
-  - Clustering을 통한 정답 도출
+   - Clustering을 통한 정답 도출
